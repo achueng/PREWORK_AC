@@ -1,0 +1,18 @@
+HTML file
+1. Added h1 tag to line 19 "Boo The Dog Fan Page!"
+2. Lines 40 - 43 consists of 3 separate paragraphs about Boo the dog, and a link to the Wikipedia page. To make it look less dense on the browser, paragraph tags were added to each line. Modified file has this as lines 40-51
+3. Right column img tag was missing angle brackets. Modified.
+4. Ordered list "List Of Boo's Favorite Things" missing list item tags. Added for each list item. 
+5. IDs for the buttons that show different colors are mismatched. Modified to match the IDs with the correct colors.
+6. Source file in script tag was not the JavaScript file that was provided in the folder. Renamed the source file to match the JavaScript file that is in the same folder.
+
+
+CSS file
+1. Added semicolon in line 2 to mark the end of the color value.
+2. Added space after colon, before auto, in line 22.
+
+
+JavaScript file
+1. Facts about Boo in line 6 were recognized as one string. Added quotation marks to each fact to separate them into 5 strings.
+2. Line 15: pink was not in quotation marks, so the color was not recognized. Added quotation marks around pink.
+3. Lines 27 and 32: click is not in quotation marks, so clicks on the buttons aren't recognized. Added quotations to both line 27 and 32.
